@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace Proxy_Client_Tinsoft
+namespace Proxy_Client_Tinsoft 
 {
     class TinsoftProxy
     {
